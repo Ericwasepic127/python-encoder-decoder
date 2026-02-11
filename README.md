@@ -23,6 +23,20 @@ print("Decoded!", decoded) # displays decoded
 print("Matches original:", decoded == text)
 # will be True
 ```
+
+# Sample try:
+- Use `sample.py`
+- Or, use my python REPL:
+How to use it:
+- Click [here](https://ericwasepic127.github.io/hello.html) to open REPL
+- Then, enter `@:/\:@` for skip questions
+- Enter `n` if you didn't wanna pip packages, `Y` for add pip packages
+- Then, do that:
+```python
+exec(fetcher("https://raw.githubusercontent.com/Ericwasepic127/python-encoder-decoder/refs/heads/main/sample.py"))
+```
+- **Now, you had the sample!!**
+
 # Licence: 
 **MIT License**
 
