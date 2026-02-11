@@ -33,7 +33,7 @@ How to use it:
 - Enter `n` if you didn't wanna pip packages, `Y` for add pip packages
 - Then, do that:
 ```python
-exec(fetcher("https://raw.githubusercontent.com/Ericwasepic127/python-encoder-decoder/refs/heads/main/sample.py"))
+exec(fetcher("https://raw.githubusercontent.com/Ericwasepic127/python-encoder-decoder/refs/heads/main/sample.py"), {"__name__": "__main__", "input": input}) # don't worry, it's REPL, needs additional items to run it
 ```
 - **Now, you had the sample!!**
 
